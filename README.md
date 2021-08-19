@@ -1,7 +1,7 @@
 
 # Responsive Restaurant Website
 
-I made this landing web page for a bank using css html and javascript.
+I made this landing web page for a restauraunt using css html and javascript.
 
 
 
